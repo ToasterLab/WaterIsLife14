@@ -1,4 +1,4 @@
-# WaterIsLife15
+# WaterIsLife14
 Ri-Maurick Water Conference 2014
 
 Water is life. One of the most fundamental challenges facing the world today is how we manage and develop this precious resource in the face of growing demand, to promote economic growth in a responsible and environmentally sustainable way. Singapore has no natural water resources in the form of large river systems or aquifers; the Netherlands faces challenge keeping seawater out and freshwater in. Yet, these countries have successfully overcome these challenges through science and innovation. The Netherlands has become a leader in water technologies, successfully converting the change in salinity as fresh water meets the sea to a source of electricity. Land-scarce Singapore has forged ahead, creatively expanding its water reservoirs and using membrane technology to purify water.
